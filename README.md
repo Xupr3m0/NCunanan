@@ -12,5 +12,5 @@
 ### PRIMARY EDUCATION
 - Weisheit Inscribe Learning Academy (2011-2018)
 
-
+## MY PROJECTS 💻
      
