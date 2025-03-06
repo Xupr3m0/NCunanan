@@ -6,9 +6,11 @@
 # EDUCATIONAL BACKGROUND 🎓
 ## TERTIARY EDUCATION
 - Bachelor of Science in Information Systems | City College of Angeles (2024-Present)
+  
 ## SECONDARY EDUCATION
 - General Academic Strand | Sapang Bato National High School (2020-2024)
 - Republic Central Colleges (2018-2020)
+  
 ## PRIMARY EDUCATION
 - Weisheit Inscribe Learning Academy (2011-2018)
 
