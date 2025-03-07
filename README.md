@@ -1,5 +1,5 @@
 # Hey, I am Noelle Cunanan!
-### WHO AM I? 👨🏻‍💼
+### ABOUT ME 👨🏻‍💼
 - Chelsea Noelle V. Cunanan
 - 19 years old
 - Filipino Citizen
