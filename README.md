@@ -22,5 +22,5 @@
 - Weisheit Inscribe Learning Academy (2011-2018)
 
 ## MY PROJECTS 💻
-- Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](Midterm%20Task%201/Task%201.md)
+- Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](https://github.com/Xupr3m0/NCunanan/blob/main/Midterm%20Task%201/Task%201.md)
 - Midterm Lab Task 2:
