@@ -74,21 +74,20 @@ in
 
 ## Final Output
 ### Cleaned Data
-![image](https://github.com/user-attachments/assets/077daa3f-2cb6-4226-8c45-c751f709383b)
+![image](https://github.com/user-attachments/assets/eaebb2d5-66df-4af3-b137-ec5b55cfd51b)
 
 
 ### Sal By Role Type Dup
-![image](https://github.com/user-attachments/assets/b34c7f35-c2b3-49ec-a0a2-2da404883eb3)
+![image](https://github.com/user-attachments/assets/6f122ef8-f7f7-41d2-969f-b9ba4271c4c2)
 
 
 ### Sal By Role Size Ref
-![image](https://github.com/user-attachments/assets/2cda21a0-228d-4a2b-99e9-2adf2ee59bf3)
-
+![image](https://github.com/user-attachments/assets/d3f65639-01f3-4c53-82d1-8da052d53569)
 
 ### Sal By State Ref
-![image](https://github.com/user-attachments/assets/b1636d15-e9e3-4f9c-9909-11bb1c7cc26e)
+![image](https://github.com/user-attachments/assets/91ac5387-8594-4caa-944b-8595b9c14466)
 
 
 
 ### Query Dependencies
-![image](https://github.com/user-attachments/assets/a6d095c6-f479-4f1a-8919-5c37fd631c2c)
+![image](https://github.com/user-attachments/assets/6cf122f7-011d-4f41-841e-4041f988518a)
