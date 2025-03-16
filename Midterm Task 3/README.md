@@ -27,8 +27,15 @@ Customize the colors, fonts, and layout to make the dashboard visually appealing
 ### 8. Complete the Dashboard 
 Ensure all required visuals and reports are included
 The slicers should be functional and interactive
-## 𝐒𝐜𝐫𝐞𝐞𝐧𝐬𝐡𝐨𝐭𝐬 𝐃𝐮𝐫𝐢𝐧𝐠 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 
-### 𝐒𝐚𝐥 𝐛𝐲 𝐑𝐨𝐥𝐞 𝐓𝐲𝐩𝐞 ![sal by job role](https://github.com/user-attachments/assets/68767b84-bba2-4817-8d46-eccd4f526a74) 
-### 𝐒𝐚𝐥 𝐛𝐲 𝐒𝐢𝐳𝐞 ![sal by size](https://github.com/user-attachments/assets/4e4a8cdf-8062-4b69-886d-9889fa99262d) 
-### 𝐒𝐚𝐥 𝐛𝐲 𝐒𝐭𝐚𝐭𝐞 ![sal by state](https://github.com/user-attachments/assets/c40362e0-6454-43c5-b2f2-8759e227d8fd) 
-### 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 ![Screenshot 2025-03-15 114231](https://github.com/user-attachments/assets/b97deda9-7efc-477c-9789-de8601e9b211)
+## Screenshots During Analysis
+### Sal By Role Type ![image](https://github.com/user-attachments/assets/a72cc565-72a5-4420-bd64-23ce94cc260d)
+ 
+### Sal By Size ![image](https://github.com/user-attachments/assets/34af1c79-0e8c-4aa7-aa62-c0046960c760)
+
+### Sal By State ![image](https://github.com/user-attachments/assets/fa15d624-abf4-40c4-bdb7-6e8b22605856)
+
+### Dashboard ![image](https://github.com/user-attachments/assets/d3133179-5856-4672-95e8-51ca7def9f42)
+
+### Map ![image](https://github.com/user-attachments/assets/ca4fa3ee-2c44-4951-9663-a50afa6d9048)
+
+
