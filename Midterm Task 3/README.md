@@ -5,9 +5,9 @@ This portfolio is about creating an interactive Data Science Salary & Job Trends
 
 ### 1. Use the Given Data
 Open the Worksheet on Uncleaned DS Jobs and the Transform Tables:
-Sal By Role
-Sal By State
-Sal By Size
+Sal By Role,
+Sal By State,
+Sal By Size,
   ### 2. Design the Dashboard to highlight the following
 State with the most Data Science jobs
 Job role with the highest average salary
