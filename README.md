@@ -22,6 +22,6 @@
 - Weisheit Inscribe Learning Academy (2011-2018)
 
 ## MY PROJECTS 💻
-- Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](https://github.com/Xupr3m0/NCunanan/blob/main/Midterm%20Task%201/Task%201.md)
-- Midterm Lab Task 2: [Data Cleaning and Transformation using POWER QUERY](https://github.com/Xupr3m0/NCunanan/blob/main/Midterm%20Task%202/README.md)
+- Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](https://github.com/Xupr3m0/NCunanan/blob/main/Midterm%20Task%201/Task%201.md) \
+- Midterm Lab Task 2: [Data Cleaning and Transformation using POWER QUERY](https://github.com/Xupr3m0/NCunanan/blob/main/Midterm%20Task%202/README.md)\
 - Midterm Task 3: [Creating Pivot Table and Dashboard](https://github.com/Xupr3m0/NCunanan/blob/main/Midterm%20Task%203/README.md)
