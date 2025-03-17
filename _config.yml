@@ -1,7 +1,5 @@
-title: My Portfolio
-logo: images/pfp.jpg
-description: City College Student
-show_downloads: true
-remote_theme: pages-themes/merlot@v0.2.0
+title: MY PORTFOLIO
+logo: Images/pfp.jpg
+remote_theme: pages-themes/midnight@v0.2.0
 plugins:
-- jekyll-remote-theme 
+- jekyll-remote-theme-midnight@v0.2.0
