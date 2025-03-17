@@ -27,7 +27,9 @@ Customize the colors, fonts, and layout to make the dashboard visually appealing
 ### 8. Complete the Dashboard 
 Ensure all required visuals and reports are included
 The slicers should be functional and interactive
+
 ## Screenshots During Analysis
+
 ### Sal By Role Type ![image](https://github.com/user-attachments/assets/a72cc565-72a5-4420-bd64-23ce94cc260d)
  
 ### Sal By Size ![image](https://github.com/user-attachments/assets/34af1c79-0e8c-4aa7-aa62-c0046960c760)
