@@ -1,4 +1,4 @@
-## Finals Task 2. Transforming ER into Relational Tables
+## Finals Task 2: Transforming ER into Relational Tables
 ### ***Table for students***
 ![image](https://github.com/user-attachments/assets/4d835a99-e099-40e4-a565-3be98ecaa8ff)
 
