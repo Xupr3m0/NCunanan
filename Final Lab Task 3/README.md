@@ -5,7 +5,7 @@
 - ID (INT, AUTO INCREMENT, PRIMARY KEY)
 - Product Name (VARCHAR (100), NOT NULL)
 - Price (DECIMAL (5, 2), NOT NULL)
-- Check (price > 0)
+
 
   ![image](https://github.com/user-attachments/assets/9c3d295e-fe49-43e1-ab3f-65c85fe79fb8)
 
