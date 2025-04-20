@@ -1,4 +1,4 @@
-# Final  Task Lab 1: MySQL Basis
+# Final  Task Lab 1: MySQL Basics
 
 ## ***Create an events table with fields***
 
