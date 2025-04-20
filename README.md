@@ -27,6 +27,6 @@
 - Midterm Lab Task 3: [Creating Pivot Table and Dashboard](https://github.com/Xupr3m0/NCunanan/blob/main/Midterm%20Task%203/README.md).
 
 ## MY FINAL PROJECTS 👨🏻‍💼⚙️🎓🖥️
-- Final Lab Task 1: [MySQL Basis](https://github.com/Xupr3m0/NCunanan/blob/main/Final%20Lab%20Task%201%20/README.md).
+- Final Lab Task 1: [MySQL Basics](https://github.com/Xupr3m0/NCunanan/blob/main/Final%20Lab%20Task%201%20/README.md).
 - Final Lab Task 2: [Transforming ER Model into Relational Tables](https://github.com/Xupr3m0/NCunanan/blob/main/Final%20Lab%20Task%202/README.md).
 - Final Lab Task 3: [Table Manipulation](https://github.com/Xupr3m0/NCunanan/blob/main/Final%20Lab%20Task%203/README.md).
