@@ -12,14 +12,14 @@
 
 # 𝑬𝑫𝑼𝑪𝑨𝑻𝑰𝑶𝑵𝑨𝑳 𝑩𝑨𝑪𝑲𝑮𝑹𝑶𝑼𝑵𝑫 🎓
 ## 𝐓𝐄𝐑𝐓𝐈𝐀𝐑𝐘 𝐄𝐃𝐔𝐂𝐀𝐓𝐈𝐎𝐍
-- Bachelor of Science in Information Systems | City College of Angeles (2024-Present)
+- Bachelor of Science in Information Systems | City College of Angeles - [CCA](https://www.cca.edu.ph/) (2024-Present)
   
 ## 𝐒𝐄𝐂𝐎𝐍𝐃𝐀𝐑𝐘 𝐄𝐃𝐔𝐂𝐀𝐓𝐈𝐎𝐍
-- General Academic Strand | Sapang Bato National High School (2020-2024)
-- Republic Central Colleges (2018-2020)
+- General Academic Strand | Sapang Bato National High School - [SBNHS](https://www.facebook.com/SBNHSSHS/) (2020-2024)
+- Republic Central Colleges - [RCC](https://www.rcc.edu.ph/) - (2018-2020)
   
 ## 𝐏𝐑𝐈𝐌𝐀𝐑𝐘 𝐄𝐃𝐔𝐂𝐀𝐓𝐈𝐎𝐍
-- Weisheit Inscribe Learning Academy (2011-2018)
+- Weisheit Inscribe Learning Academy - [WILA](https://www.facebook.com/wilaofficial/) - (2011-2018)
 
 ## 𝑴𝒀 𝑴𝑰𝑫𝑻𝑬𝑹𝑴 𝑷𝑹𝑶𝑱𝑬𝑪𝑻𝑺 👩🏻‍💻📓✍🏻💡
 - Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](https://github.com/Xupr3m0/NCunanan/blob/main/Midterm%20Task%201/Task%201.md).
