@@ -1,5 +1,5 @@
 # Final Lab Task 4: Using SELECT Statement
-## Part 1
+## ***Part 1***
 ### 1. Create a database named payroll, use payroll
 ### 2. Copy and paste the initial query
 ![pic 1](https://github.com/user-attachments/assets/677fafa1-547d-4a95-8ce4-e943e6da8c75)
@@ -10,7 +10,7 @@
 ### Retrieve the department names along with the average salary for each department.
 ![pic 3](https://github.com/user-attachments/assets/840963ea-18e9-4bd3-b843-ab4c41375ace)
 
-## Part 2
+## ***Part 2***
 ### Create a database named employeeDB and copy and paste the initial query.
 ![pic 1 item2 (2)](https://github.com/user-attachments/assets/d8e57c85-7fee-4955-beb6-a5b72dc3bf00)  
 ![pic 2 item2 (1)](https://github.com/user-attachments/assets/861e8ae3-a342-4aa3-b17d-b3fe99d76152)     
