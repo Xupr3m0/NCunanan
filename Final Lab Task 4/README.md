@@ -12,3 +12,5 @@
 
 ## Part 2
 ### Create a database named employeeDB and copy and paste the initial query
+![pic 4](https://github.com/user-attachments/assets/88b05aa8-f6b4-4160-9abe-07e1f39ef01c)
+![pic 4](https://github.com/user-attachments/assets/44245bfa-1a5c-4be0-9757-989765b42927)
