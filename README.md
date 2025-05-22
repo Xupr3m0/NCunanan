@@ -8,7 +8,7 @@
 
 # 𝑺𝑲𝑰𝑳𝑳𝑺  🎯
 - Learning C++, Java
-- Microsoft Excel, Powerpoint
+- Microsoft Excel, Word, Powerpoint
 - Adobe Photoshop, Illustrator, Lightroom
   
 # 𝑬𝑫𝑼𝑪𝑨𝑻𝑰𝑶𝑵𝑨𝑳 𝑩𝑨𝑪𝑲𝑮𝑹𝑶𝑼𝑵𝑫 🎓
