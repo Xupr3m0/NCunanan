@@ -8,6 +8,8 @@
 
 # 𝑺𝑲𝑰𝑳𝑳𝑺  🎯
 - Learning C++, Java
+- Microsoft Excel
+- Adobe Photoshop, Illustrator, Lightroom
   
 # 𝑬𝑫𝑼𝑪𝑨𝑻𝑰𝑶𝑵𝑨𝑳 𝑩𝑨𝑪𝑲𝑮𝑹𝑶𝑼𝑵𝑫 🎓
 ## 𝐓𝐄𝐑𝐓𝐈𝐀𝐑𝐘 𝐄𝐃𝐔𝐂𝐀𝐓𝐈𝐎𝐍
