@@ -3,14 +3,14 @@
 
 #  Task Step-by-Step
 
-## Create database
+## ***Create database***
 - Connect to a running mongo instance, use a database named `mongo_practice`.
 
 - use *mongo_practice*
 
 ![image](https://github.com/user-attachments/assets/f6eecad4-bc48-4666-8eb2-9f40683565f9)
 
-## Insert Documents
+## ***Insert Documents***
 
 ![image](https://github.com/user-attachments/assets/b1b628fc-e4f4-44fd-8b71-0f542e383180)
 
@@ -34,7 +34,7 @@
 
 ![image](https://github.com/user-attachments/assets/baeb858b-42a9-4157-bf27-91bcf5166ce3)
 
-## Query / Find Documents
+## ***Query / Find Documents***
 
 
 1. get all documents
@@ -65,7 +65,7 @@
 ![image](https://github.com/user-attachments/assets/fa451371-a1bd-4e8e-afe6-1b5ede363b9d)
 
 
-## Update Documents
+## ***Update Documents***
 
 1. add a synopsis to "The Hobbit: An Unexpected Journey" : "A reluctant hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited group of dwarves to reclaim their mountain home - and the gold within it - from the dragon Smaug."
 
@@ -81,7 +81,7 @@
 ![image](https://github.com/user-attachments/assets/6261edfb-b473-44fb-b884-da092ffdb4b7)
 
 
-## Text Search
+## ***Text Search***
 
 1. find all movies that have a synopsis that contains the word "Bilbo"
 
@@ -104,7 +104,7 @@
 
 ![image](https://github.com/user-attachments/assets/cb9494fc-e5cd-44e0-a985-03d42a7d7e8a)
 
-## Delete Documents
+## ***Delete Documents***
 
 1. delete the movie "Pee Wee Herman's Big Adventure"
 
