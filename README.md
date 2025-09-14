@@ -1,6 +1,5 @@
 # 𝐇𝐢, 𝐈 𝐚𝐦 𝐍𝐨𝐞𝐥𝐥𝐞 𝐂𝐮𝐧𝐚𝐧𝐚𝐧!
 # 𝑨𝑩𝑶𝑼𝑻 𝑴𝑬 🚀
-- Chelsea Noelle V. Cunanan
 - 19 years old
 - Filipino
 - INTJ-A
